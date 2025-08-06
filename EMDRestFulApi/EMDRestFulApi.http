@@ -1,0 +1,6 @@
+@EMDRestFulApi_HostAddress = http://localhost:5094
+
+GET {{EMDRestFulApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
