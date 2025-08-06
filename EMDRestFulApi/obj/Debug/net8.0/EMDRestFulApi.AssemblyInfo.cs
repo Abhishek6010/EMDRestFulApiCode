@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EMDRestFulApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47e7813e08c409afac92c78bb9d98a83e84209ef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f883d04008304486db21374c11f5531af955b5b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("EMDRestFulApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EMDRestFulApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
